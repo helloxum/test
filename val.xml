@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <versioncode>20401</versioncode>
+  <versionname>2.4.1</versionname>
+  <url>https://gitlab.com/jenly1314/AppUpdater/-/raw/master/app/release/app-release.apk</url>
+  <info>1.我是更新内容1;\n2.我是更新内容2</info>
+</resources>
